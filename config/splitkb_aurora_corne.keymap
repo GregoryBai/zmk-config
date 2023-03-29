@@ -12,6 +12,15 @@
        tapping-term-ms = <150>;
     };
 
+&sk {
+       release-after-ms = <150>;
+       quick-release;
+    };
+
+&sl {
+       release-after-ms = <150>;
+    };
+
 / {
         keymap {
                 compatible = "zmk,keymap";
