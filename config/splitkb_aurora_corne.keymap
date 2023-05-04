@@ -39,7 +39,7 @@
    &kp ESC    &kp N1       &kp N2       &kp N3       &kp N4     &kp N5            &kp N6          &kp N7           &kp N8       &kp N9         &kp N0   &kp DEL
    &trans     &kp N4       &kp N5       &kp N6       &kp N0     &trans            &kp LEFT        &kp DOWN         &kp UP       &kp RIGHT      &trans   &trans
    &trans     &kp N7       &kp N8       &kp N9       &kp MINUS  &kp PLUS          &kp C_BRI_DEC   &kp C_VOL_DN     &kp C_VOL_UP &kp C_BRI_INC  &trans   &trans
-                          	        &trans       &trans     &kp ESC           &trans          &mo 3           &mo 3
+                          	        &trans       &trans     &kp ESC           &trans          &mo 3            &trans
                         >;
                 };
 
@@ -48,7 +48,7 @@
    &kp ESC   &kp EXCL &kp AT &kp HASH &kp DLLR &kp PRCNT                          &kp CARET &kp AMPS  &kp KP_MULTIPLY &kp LPAR  &kp RPAR &kp DEL
    &trans    &trans   &trans &trans   &trans   &trans                             &kp MINUS &kp EQUAL &kp BSLH        &kp LBKT  &kp RBKT &kp GRAVE
    &trans    &trans   &trans &trans   &trans   &trans                             &kp UNDER &kp PLUS  &kp PIPE        &kp LBRC  &kp RBRC &kp TILDE
-                    	     &trans   &trans   &kp ESC                            &kp RET   &mo 3     &mo 3
+                    	     &trans   &trans   &kp ESC                            &kp RET   &trans    &mo 3
                         >;
                 };
 
